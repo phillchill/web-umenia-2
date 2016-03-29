@@ -17,7 +17,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/formers/former/zipball/0c3a4e7d770c84d26ac3609bb946dd7cff6cf160",
+                "url": "https://api.github.com/repos/formers/former/zipball/2775a59d62ab5b82de8c88c8bc21b697e2188348",
                 "reference": "0c3a4e7d770c84d26ac3609bb946dd7cff6cf160",
                 "shasum": ""
             },
@@ -890,7 +890,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/fadion/Bouncy/zipball/81130779a1b64a879631f57c6d3ba0c4cbcda6db",
+                "url": "https://api.github.com/repos/fadion/Bouncy/zipball/abccedf70aa41ae5107f2ee3d3284b785c0e1314",
                 "reference": "0b7dddbcf0f24d5a725b196e9f7b588ac37006bc",
                 "shasum": ""
             },
@@ -1305,7 +1305,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Intervention/image/zipball/e6c9cd03d6b2a870e74da03332feeb97d477fc87",
+                "url": "https://api.github.com/repos/Intervention/image/zipball/e368d262887dbb2fdfaf710880571ede51e9c0e6",
                 "reference": "e6c9cd03d6b2a870e74da03332feeb97d477fc87",
                 "shasum": ""
             },
@@ -1367,7 +1367,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ipalaus/geonames/zipball/7bcb6a7b06db9c7a92461b835b0ae6444c7ee816",
+                "url": "https://api.github.com/repos/ipalaus/geonames/zipball/d71919b34fa4d8313fdb3e01e64c152149280cc2",
                 "reference": "7bcb6a7b06db9c7a92461b835b0ae6444c7ee816",
                 "shasum": ""
             },
@@ -1623,12 +1623,12 @@
             "version": "v2.4.2",
             "source": {
                 "type": "git",
-                "url": "https://github.com/laravelbook/ardent.git",
+                "url": "https://github.com/laravel-ardent/ardent.git",
                 "reference": "0a0238b8040abc1c71401ce27a8edf2619fa5bed"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravelbook/ardent/zipball/0a0238b8040abc1c71401ce27a8edf2619fa5bed",
+                "url": "https://api.github.com/repos/laravel-ardent/ardent/zipball/0a0238b8040abc1c71401ce27a8edf2619fa5bed",
                 "reference": "0a0238b8040abc1c71401ce27a8edf2619fa5bed",
                 "shasum": ""
             },
@@ -3360,12 +3360,12 @@
             "target-dir": "Symfony/Component/Routing",
             "source": {
                 "type": "git",
-                "url": "https://github.com/symfony/Routing.git",
+                "url": "https://github.com/symfony/routing.git",
                 "reference": "46142c34ea830f47429df6e15faec3a33292d618"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/Routing/zipball/46142c34ea830f47429df6e15faec3a33292d618",
+                "url": "https://api.github.com/repos/symfony/routing/zipball/46142c34ea830f47429df6e15faec3a33292d618",
                 "reference": "46142c34ea830f47429df6e15faec3a33292d618",
                 "shasum": ""
             },

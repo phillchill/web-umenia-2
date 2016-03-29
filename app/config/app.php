@@ -13,7 +13,7 @@ return array(
 	|
 	*/
 
-	'debug' => false,
+	'debug' => true,
 
 	/*
 	|--------------------------------------------------------------------------
@@ -26,7 +26,7 @@ return array(
 	|
 	*/
 
-	'url' => 'http://www.webumenia.sk',
+	'url' => 'http://webumenia.local',
 
 	/*
 	|--------------------------------------------------------------------------
@@ -117,6 +117,7 @@ return array(
 		'Rap2hpoutre\LaravelLogViewer\LaravelLogViewerServiceProvider',
 		'Zizaco\Entrust\EntrustServiceProvider',
 		'Roumen\Sitemap\SitemapServiceProvider',
+		'Barryvdh\Debugbar\ServiceProvider',
 	),
 
 	/*
@@ -188,6 +189,7 @@ return array(
         'Excel' => 'Maatwebsite\Excel\Facades\Excel',
         'Carbon' => 'Carbon\Carbon',
         'Entrust'    => 'Zizaco\Entrust\EntrustFacade',
+        'Debugbar' => 'Barryvdh\Debugbar\Facade',
 	),
 
 	'jira_auth' => array(
