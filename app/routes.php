@@ -163,6 +163,18 @@ Route::get('dielo/{id}/stiahnut', function($id)
 	// return Response::download($pathToFile);
 });
 
+Route::post('dielo/{id}/addTags', function($id)
+{
+	$item = Item::find($id);
+	$newTags = Input::get('tags');
+
+	foreach ($newTags as $newTag) {
+		$item->tag($newTag);
+	}
+
+	return Redirect::to($item->getUrl());
+});
+
 Route::get('dielo/{id}', function($id)
 {
 	$item = Item::find($id);
